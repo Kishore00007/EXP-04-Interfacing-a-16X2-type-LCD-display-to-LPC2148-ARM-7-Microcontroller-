@@ -195,12 +195,15 @@ int main(void)
 
 
 ## Proteus simulation 
+## before run the simulation:
+![](https://github.com/Kishore00007/EXP-04-Interfacing-a-16X2-type-LCD-display-to-LPC2148-ARM-7-Microcontroller-/blob/main/p41.jpg)
 
-
+##after run the simulation:
+![](https://github.com/Kishore00007/EXP-04-Interfacing-a-16X2-type-LCD-display-to-LPC2148-ARM-7-Microcontroller-/blob/main/p42.jpg)
 
 
 ##  layout Diagram 
-
+![](https://github.com/Kishore00007/EXP-04-Interfacing-a-16X2-type-LCD-display-to-LPC2148-ARM-7-Microcontroller-/blob/main/p43.png)
 
 
 ## Result :
